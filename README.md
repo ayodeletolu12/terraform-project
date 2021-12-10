@@ -1,4 +1,10 @@
-# This terraform project deploys an EC2 instance on AWS cloud
+# This terraform project deploys an Apache web server on an EC2 instance in AWS cloud
+
+## The Entire cloud infrastructure was provisioned on AWS using Terraform
+
+### terraform init, terraform plan, terraform apply and terraform destroy
+
+#### Below are highlights of resources provisioned for this project
 
 `Create VPC`
 `Create Internet gateway`
